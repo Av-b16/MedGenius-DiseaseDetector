@@ -1,0 +1,19 @@
+# Node modules directory
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Build files (if applicable)
+dist/
+build/
+
+# Environment variable files
+.env
+
+# npm package lock file (optional)
+package-lock.json
